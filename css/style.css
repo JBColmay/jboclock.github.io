@@ -1,0 +1,43 @@
+body{
+    background-color: #DBD9DA;
+    width: 900px;
+    margin: auto;
+
+    font-family: 'Inter Tight', sans-serif;
+
+    border: 3px grey solid;
+    border-top: 0;
+    border-bottom: 0;
+    padding: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#main-title{
+    background-color: #273446;
+    color: whitesmoke;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+
+#experience-pro{
+    background-color:whitesmoke ;
+    border-radius:10px;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+#formations{
+    background-color:whitesmoke ;
+    border-radius:10px;
+    padding: 10px;
+}
+
+h2{
+    color: #273446;
+}
+
+h3{
+    color: #3C86A2;
+}
